@@ -1,6 +1,5 @@
 streamlit
-opencv-python-headless
-pytesseract
-rapidfuzz
+google-genai
 pandas
 pillow
+qrcode
